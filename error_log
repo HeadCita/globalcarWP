@@ -1,0 +1,8 @@
+[Tue Aug 29 17:46:00.011766 2017] [access_compat:error] [pid 5963] [client 127.0.0.1:39082] AH01797: client denied by server configuration: /home/joseph/MEGA/Desktop/Proyectos/globalcar/
+[Tue Aug 29 17:46:00.014512 2017] [:error] [pid 5963] [client 127.0.0.1:39082] script '/home/joseph/MEGA/Desktop/Proyectos/globalcar/forbidden.php' not found or unable to stat
+[Tue Aug 29 17:48:31.330081 2017] [access_compat:error] [pid 6013] [client 127.0.0.1:39216] AH01797: client denied by server configuration: /home/joseph/MEGA/Desktop/Proyectos/globalcar/
+[Tue Aug 29 17:48:31.341774 2017] [:error] [pid 6013] [client 127.0.0.1:39216] script '/home/joseph/MEGA/Desktop/Proyectos/globalcar/forbidden.php' not found or unable to stat
+[Mon Sep 04 18:26:22.836901 2017] [access_compat:error] [pid 3901] [client 127.0.0.1:36314] AH01797: client denied by server configuration: /home/joseph/MEGA/Desktop/Proyectos/globalcar/
+[Mon Sep 04 18:26:22.837696 2017] [:error] [pid 3901] [client 127.0.0.1:36314] script '/home/joseph/MEGA/Desktop/Proyectos/globalcar/forbidden.php' not found or unable to stat
+[Mon Sep 04 18:26:22.905785 2017] [access_compat:error] [pid 3901] [client 127.0.0.1:36314] AH01797: client denied by server configuration: /home/joseph/MEGA/Desktop/Proyectos/globalcar/favicon.ico, referer: http://globalcar.local:8080/
+[Mon Sep 04 18:26:22.905868 2017] [:error] [pid 3901] [client 127.0.0.1:36314] script '/home/joseph/MEGA/Desktop/Proyectos/globalcar/forbidden.php' not found or unable to stat, referer: http://globalcar.local:8080/
